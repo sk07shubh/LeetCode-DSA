@@ -4,20 +4,19 @@ public:
         int n = nums.size();
 
         vector<int>result;
-
-        unordered_map<int,int> freq;
+        vector<int> seen(n+1,0);
 
         for(int x : nums){
-            freq[x]++;
+            seen[x]++;
         }
 
-        for(int i=1 ; i<=n ; i++ ){
-            if(freq[i] == 0){
+        for(int i=1 ; i<=n ; i++){
+            if(seen[i] == 0){
                 result.push_back(i);
             }
         }
-        return result;     
-       
+
+        return result;           
         
     }
 };
