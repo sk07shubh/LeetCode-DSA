@@ -10,6 +10,7 @@ This is my LeetCode DSA Repo
 | [0015-3sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0198-house-robber](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -65,4 +66,20 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0146-lru-cache/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0200-number-of-islands/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
