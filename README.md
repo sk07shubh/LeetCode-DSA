@@ -14,6 +14,7 @@ This is my LeetCode DSA Repo
 | [0349-intersection-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0697-degree-of-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0697-degree-of-an-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
