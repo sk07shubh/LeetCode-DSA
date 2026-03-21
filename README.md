@@ -44,6 +44,7 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0015-3sum/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -143,6 +144,7 @@ This is my LeetCode DSA Repo
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0796-rotate-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0796-rotate-string/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1370-increasing-decreasing-string/) | Easy |
 ## String Matching
