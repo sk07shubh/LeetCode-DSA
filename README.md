@@ -7,6 +7,7 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0198-house-robber](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0198-house-robber/) | Medium |
@@ -148,6 +149,7 @@ This is my LeetCode DSA Repo
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0796-rotate-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0796-rotate-string/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1370-increasing-decreasing-string/) | Easy |
@@ -160,4 +162,8 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
