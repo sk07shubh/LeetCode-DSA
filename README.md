@@ -55,6 +55,7 @@ This is my LeetCode DSA Repo
 | [0015-3sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0242-valid-anagram](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0912-sort-an-array/) | Medium |
@@ -70,6 +71,7 @@ This is my LeetCode DSA Repo
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0146-lru-cache/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0697-degree-of-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0697-degree-of-an-array/) | Easy |
@@ -153,6 +155,7 @@ This is my LeetCode DSA Repo
 | [0014-longest-common-prefix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0796-rotate-string/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
