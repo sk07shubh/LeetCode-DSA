@@ -24,6 +24,7 @@ This is my LeetCode DSA Repo
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -63,6 +64,7 @@ This is my LeetCode DSA Repo
 | [1200-minimum-absolute-difference](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +82,7 @@ This is my LeetCode DSA Repo
 | [1207-unique-number-of-occurrences](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1370-increasing-decreasing-string/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 ## Dynamic Programming
