@@ -178,6 +178,7 @@ This is my LeetCode DSA Repo
 | [0541-reverse-string-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0709-to-lower-case](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0709-to-lower-case/) | Easy |
 | [0796-rotate-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0796-rotate-string/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
