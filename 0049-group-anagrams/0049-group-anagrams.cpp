@@ -7,9 +7,7 @@ public:
 
         for(int i=0; i<n; i++){
             string temp = strs[i];
-
             sort(temp.begin(),temp.end());
-
             map[temp].push_back(strs[i]);
         }
 
@@ -17,7 +15,6 @@ public:
 
         for(auto words : map){
             result.push_back(words.second);
-
         }
         
         return result;
