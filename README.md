@@ -80,6 +80,7 @@ This is my LeetCode DSA Repo
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0146-lru-cache](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0146-lru-cache/) | Medium |
@@ -177,6 +178,7 @@ This is my LeetCode DSA Repo
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
@@ -211,4 +213,8 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
