@@ -12,6 +12,7 @@ This is my LeetCode DSA Repo
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0056-merge-intervals/) | Medium |
+| [0136-single-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
 | [0198-house-robber](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -225,4 +226,8 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
