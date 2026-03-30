@@ -1,19 +1,27 @@
 class Solution {
 public:
-    bool canBeEqual(string s1, string s2) {
+    bool canBeEqual(string s1, string s2) {        
 
-        if(s1 == s2) return true;
         
-        swap(s1[0],s1[2]);
-        if(s1 == s2) return true;
+        int even[26] = {0};
+        int odd[26] = {0};
 
-        swap(s1[1],s1[3]);
-        if(s1 == s2) return true;
+        for(int i=0; i<4; i++){
+            if(i%2 == 0){
+                even[s1[i] - 'a']++;
+                even[s2[i] - 'a']--;
+            }else{
+                odd[s1[i] - 'a']++;
+                odd[s2[i] - 'a']--;
+            }
 
-        swap(s1[0],s1[2]);
-        if(s1 == s2) return true;
-
-        return false;        
+        }
+        for(int i=0; i<26; i++){
+            if(even[i] != 0 || odd[i] != 0){
+                return false;
+            }
+        }
+        return true;
         
     }
 };
