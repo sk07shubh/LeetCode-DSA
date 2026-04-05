@@ -7,9 +7,9 @@ public:
 
         for(int move : moves){
             if(move == 'L') x--;
-            if(move == 'R') x++;
-            if(move == 'U') y++;
-            if(move == 'D') y--;
+            else if(move == 'R') x++;
+            else if(move == 'U') y++;
+            else if(move == 'D') y--;
 
         }
         return x == 0 && y == 0;
