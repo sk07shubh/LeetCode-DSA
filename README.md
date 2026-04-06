@@ -24,6 +24,7 @@ This is my LeetCode DSA Repo
 | [0674-longest-continuous-increasing-subsequence](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0697-degree-of-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0697-degree-of-an-array/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0912-sort-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -109,6 +110,7 @@ This is my LeetCode DSA Repo
 | [0451-sort-characters-by-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0697-degree-of-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0697-degree-of-an-array/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -260,6 +262,7 @@ This is my LeetCode DSA Repo
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2751-robot-collisions/) | Hard |
 <!---LeetCode Topics End-->
