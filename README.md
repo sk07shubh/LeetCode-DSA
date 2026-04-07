@@ -141,6 +141,7 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0146-lru-cache/) | Medium |
+| [2069-walking-robot-simulation-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +264,7 @@ This is my LeetCode DSA Repo
 | [0054-spiral-matrix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0874-walking-robot-simulation/) | Medium |
+| [2069-walking-robot-simulation-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2751-robot-collisions/) | Hard |
 <!---LeetCode Topics End-->
