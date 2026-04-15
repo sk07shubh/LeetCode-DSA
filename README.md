@@ -41,6 +41,7 @@ This is my LeetCode DSA Repo
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2751-robot-collisions](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2751-robot-collisions/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -235,6 +236,7 @@ This is my LeetCode DSA Repo
 | [1370-increasing-decreasing-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## String Matching
