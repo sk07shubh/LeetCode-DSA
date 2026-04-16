@@ -44,6 +44,7 @@ This is my LeetCode DSA Repo
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2751-robot-collisions](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2751-robot-collisions/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -55,6 +56,7 @@ This is my LeetCode DSA Repo
 | [0004-median-of-two-sorted-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [3488-closest-equal-element-queries](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -125,6 +127,7 @@ This is my LeetCode DSA Repo
 | [1748-sum-of-unique-elements](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
