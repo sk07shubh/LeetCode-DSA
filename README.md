@@ -42,6 +42,7 @@ This is my LeetCode DSA Repo
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2751-robot-collisions](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2751-robot-collisions/) | Hard |
@@ -260,6 +261,7 @@ This is my LeetCode DSA Repo
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
