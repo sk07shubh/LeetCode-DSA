@@ -35,6 +35,7 @@ This is my LeetCode DSA Repo
 | [1480-running-sum-of-1d-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -170,6 +171,7 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0200-number-of-islands/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +180,7 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0200-number-of-islands/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
