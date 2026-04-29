@@ -89,6 +89,7 @@ This is my LeetCode DSA Repo
 | [0541-reverse-string-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0917-reverse-only-letters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0917-reverse-only-letters/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -171,6 +172,7 @@ This is my LeetCode DSA Repo
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
