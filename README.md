@@ -161,6 +161,7 @@ This is my LeetCode DSA Repo
 | [0009-palindrome-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -174,6 +175,7 @@ This is my LeetCode DSA Repo
 | [0206-reverse-linked-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
