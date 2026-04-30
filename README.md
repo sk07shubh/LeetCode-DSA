@@ -59,6 +59,7 @@ This is my LeetCode DSA Repo
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3742-maximum-path-score-in-a-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -155,6 +156,7 @@ This is my LeetCode DSA Repo
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3742-maximum-path-score-in-a-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +219,7 @@ This is my LeetCode DSA Repo
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3742-maximum-path-score-in-a-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
