@@ -155,6 +155,7 @@ This is my LeetCode DSA Repo
 | ------- | ------- |
 | [0198-house-robber](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0198-house-robber/) | Medium |
 | [0396-rotate-function](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0396-rotate-function/) | Medium |
+| [0788-rotated-digits](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -166,6 +167,7 @@ This is my LeetCode DSA Repo
 | [0013-roman-to-integer](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0396-rotate-function](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0396-rotate-function/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0788-rotated-digits](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
