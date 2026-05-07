@@ -188,6 +188,7 @@ This is my LeetCode DSA Repo
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0146-lru-cache/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -352,5 +353,6 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
