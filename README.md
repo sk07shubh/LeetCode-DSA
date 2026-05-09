@@ -78,6 +78,7 @@ This is my LeetCode DSA Repo
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0148-sort-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0912-sort-an-array/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -91,6 +92,7 @@ This is my LeetCode DSA Repo
 | [0125-valid-palindrome](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -107,6 +109,7 @@ This is my LeetCode DSA Repo
 | [0015-3sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0056-merge-intervals/) | Medium |
+| [0148-sort-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -198,6 +201,7 @@ This is my LeetCode DSA Repo
 | [0141-linked-list-cycle](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0146-lru-cache/) | Medium |
+| [0148-sort-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -270,6 +274,7 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0148-sort-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0148-sort-list/) | Medium |
 | [0912-sort-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
