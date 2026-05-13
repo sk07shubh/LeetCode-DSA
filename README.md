@@ -47,6 +47,7 @@ This is my LeetCode DSA Repo
 | [1848-minimum-distance-to-the-target-element](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -122,6 +123,7 @@ This is my LeetCode DSA Repo
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2751-robot-collisions](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
