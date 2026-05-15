@@ -15,6 +15,7 @@ This is my LeetCode DSA Repo
 | [0054-spiral-matrix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0136-single-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -71,6 +72,7 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
