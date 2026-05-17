@@ -10,6 +10,7 @@ This is my LeetCode DSA Repo
 | [0014-longest-common-prefix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0045-jump-game-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0054-spiral-matrix/) | Medium |
@@ -177,6 +178,7 @@ This is my LeetCode DSA Repo
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0055-jump-game/) | Medium |
 | [0198-house-robber](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0198-house-robber/) | Medium |
 | [0396-rotate-function](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0396-rotate-function/) | Medium |
@@ -341,6 +343,7 @@ This is my LeetCode DSA Repo
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0055-jump-game/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
