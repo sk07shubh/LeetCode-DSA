@@ -53,6 +53,7 @@ This is my LeetCode DSA Repo
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -143,6 +144,7 @@ This is my LeetCode DSA Repo
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2615-sum-of-distances/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
