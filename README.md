@@ -37,6 +37,7 @@ This is my LeetCode DSA Repo
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1260-shift-2d-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1306-jump-game-iii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -275,6 +276,7 @@ This is my LeetCode DSA Repo
 | [0048-rotate-image](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0200-number-of-islands/) | Medium |
+| [1260-shift-2d-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -397,6 +399,7 @@ This is my LeetCode DSA Repo
 | [0657-robot-return-to-origin](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1260-shift-2d-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
