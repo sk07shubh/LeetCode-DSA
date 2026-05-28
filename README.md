@@ -70,6 +70,7 @@ This is my LeetCode DSA Repo
 | [2751-robot-collisions](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -360,6 +361,7 @@ This is my LeetCode DSA Repo
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -378,6 +380,7 @@ This is my LeetCode DSA Repo
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
