@@ -77,6 +77,7 @@ This is my LeetCode DSA Repo
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -98,6 +99,7 @@ This is my LeetCode DSA Repo
 | [2540-minimum-common-value](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -130,6 +132,7 @@ This is my LeetCode DSA Repo
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2540-minimum-common-value/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -156,6 +159,7 @@ This is my LeetCode DSA Repo
 | [2784-check-if-array-is-good](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -383,6 +387,7 @@ This is my LeetCode DSA Repo
 | [1903-largest-odd-number-in-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2126-destroying-asteroids/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
