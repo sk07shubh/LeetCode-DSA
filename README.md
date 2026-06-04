@@ -44,6 +44,7 @@ This is my LeetCode DSA Repo
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -150,6 +151,7 @@ This is my LeetCode DSA Repo
 | [1200-minimum-absolute-difference](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
@@ -192,6 +194,7 @@ This is my LeetCode DSA Repo
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
