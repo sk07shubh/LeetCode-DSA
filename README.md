@@ -89,6 +89,7 @@ This is my LeetCode DSA Repo
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +383,7 @@ This is my LeetCode DSA Repo
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -438,6 +440,7 @@ This is my LeetCode DSA Repo
 | [2553-separate-the-digits-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2751-robot-collisions/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
