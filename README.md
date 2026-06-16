@@ -10,6 +10,7 @@ This is my LeetCode DSA Repo
 | [0014-longest-common-prefix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0045-jump-game-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0048-rotate-image/) | Medium |
@@ -121,6 +122,7 @@ This is my LeetCode DSA Repo
 | ------- | ------- |
 | [0015-3sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
