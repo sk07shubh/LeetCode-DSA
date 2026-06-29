@@ -19,6 +19,7 @@ This is my LeetCode DSA Repo
 | [0055-jump-game](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0066-plus-one/) | Easy |
+| [0078-subsets](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -435,6 +436,7 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Stack
@@ -475,4 +477,8 @@ This is my LeetCode DSA Repo
 | [0203-remove-linked-list-elements](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
