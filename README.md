@@ -4,8 +4,8 @@ This is my LeetCode DSA Repo
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0015-3sum/) | Medium |
@@ -38,6 +38,7 @@ This is my LeetCode DSA Repo
 | [0628-maximum-product-of-three-numbers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0697-degree-of-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0697-degree-of-an-array/) | Easy |
+| [0704-binary-search](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0912-sort-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0912-sort-an-array/) | Medium |
@@ -99,14 +100,15 @@ This is my LeetCode DSA Repo
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0704-binary-search](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -116,8 +118,8 @@ This is my LeetCode DSA Repo
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0148-sort-list/) | Medium |
@@ -127,8 +129,8 @@ This is my LeetCode DSA Repo
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0027-remove-element/) | Easy |
@@ -152,8 +154,8 @@ This is my LeetCode DSA Repo
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0056-merge-intervals/) | Medium |
@@ -181,16 +183,16 @@ This is my LeetCode DSA Repo
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2615-sum-of-distances/) | Medium |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
@@ -228,8 +230,8 @@ This is my LeetCode DSA Repo
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0045-jump-game-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -241,8 +243,8 @@ This is my LeetCode DSA Repo
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
@@ -261,8 +263,8 @@ This is my LeetCode DSA Repo
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
@@ -281,39 +283,39 @@ This is my LeetCode DSA Repo
 | [0876-middle-of-the-linked-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0146-lru-cache](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0146-lru-cache/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Doubly-Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0146-lru-cache](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0146-lru-cache/) | Medium |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0200-number-of-islands](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0200-number-of-islands](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0200-number-of-islands](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0048-rotate-image](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0200-number-of-islands/) | Medium |
@@ -329,8 +331,8 @@ This is my LeetCode DSA Repo
 | [3643-flip-square-submatrix-vertically](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0912-sort-an-array/) | Medium |
@@ -341,35 +343,35 @@ This is my LeetCode DSA Repo
 | [1748-sum-of-unique-elements](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0148-sort-list/) | Medium |
 | [0912-sort-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0912-sort-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
@@ -404,12 +406,12 @@ This is my LeetCode DSA Repo
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0796-rotate-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0796-rotate-string/) | Easy |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0045-jump-game-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0055-jump-game/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -419,36 +421,36 @@ This is my LeetCode DSA Repo
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0067-add-binary](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0234-palindrome-linked-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0946-validate-stack-sequences/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2751-robot-collisions](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2751-robot-collisions/) | Hard |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
 | [0498-diagonal-traverse](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0498-diagonal-traverse/) | Medium |
@@ -465,12 +467,12 @@ This is my LeetCode DSA Repo
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Geometry
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
@@ -478,7 +480,7 @@ This is my LeetCode DSA Repo
 | [0206-reverse-linked-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0078-subsets](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
