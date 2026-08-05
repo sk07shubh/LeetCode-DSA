@@ -109,6 +109,7 @@ This is my LeetCode DSA Repo
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0278-first-bad-version](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0704-binary-search) |
@@ -489,5 +490,6 @@ This is my LeetCode DSA Repo
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
