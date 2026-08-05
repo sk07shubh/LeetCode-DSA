@@ -108,6 +108,7 @@ This is my LeetCode DSA Repo
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -483,4 +484,8 @@ This is my LeetCode DSA Repo
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0078-subsets/) | Medium |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
