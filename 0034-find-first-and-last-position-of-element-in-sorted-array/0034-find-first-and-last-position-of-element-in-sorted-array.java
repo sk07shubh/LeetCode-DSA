@@ -16,6 +16,7 @@ class Solution {
                 right = mid -1;
             }
         }  
+        if(firstOcc == -1) return new int[]{firstOcc,secOcc};
 
         left = 0;
         right = nums.length -1;
