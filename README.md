@@ -37,6 +37,7 @@ This is my LeetCode DSA Repo
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0498-diagonal-traverse](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0498-diagonal-traverse/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
@@ -120,6 +121,7 @@ This is my LeetCode DSA Repo
 | [0278-first-bad-version](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
