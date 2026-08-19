@@ -2,7 +2,7 @@ import java.lang.*;
 class Solution {
     public int arrangeCoins(int n) {
     
-        long left = 0;
+        long left = 1;
         long right = n;
 
         while(left<=right){
