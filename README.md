@@ -290,6 +290,7 @@ This is my LeetCode DSA Repo
 | [2235-add-two-integers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2235-add-two-integers/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Linked List
