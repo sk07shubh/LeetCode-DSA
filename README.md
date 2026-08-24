@@ -236,6 +236,7 @@ This is my LeetCode DSA Repo
 | [0205-isomorphic-strings](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0264-ugly-number-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -272,6 +273,7 @@ This is my LeetCode DSA Repo
 | [0055-jump-game](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0198-house-robber/) | Medium |
+| [0264-ugly-number-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0396-rotate-function](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -288,6 +290,7 @@ This is my LeetCode DSA Repo
 | [0066-plus-one](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
 | [0263-ugly-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0263-ugly-number/) | Easy |
+| [0264-ugly-number-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0396-rotate-function](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0396-rotate-function/) | Medium |
 | [0441-arranging-coins](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0441-arranging-coins/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -388,6 +391,7 @@ This is my LeetCode DSA Repo
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0264-ugly-number-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
