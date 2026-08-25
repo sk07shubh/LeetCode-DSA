@@ -34,6 +34,7 @@ This is my LeetCode DSA Repo
 | [0217-contains-duplicate](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0396-rotate-function](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0396-rotate-function/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -130,6 +131,7 @@ This is my LeetCode DSA Repo
 | [0278-first-bad-version](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0441-arranging-coins](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0441-arranging-coins/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0704-binary-search) |
@@ -197,6 +199,7 @@ This is my LeetCode DSA Repo
 | [0217-contains-duplicate](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0912-sort-an-array/) | Medium |
@@ -365,6 +368,7 @@ This is my LeetCode DSA Repo
 | [0054-spiral-matrix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0498-diagonal-traverse/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -394,6 +398,7 @@ This is my LeetCode DSA Repo
 | [0023-merge-k-sorted-lists](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0264-ugly-number-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0264-ugly-number-ii/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
