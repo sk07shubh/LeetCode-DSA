@@ -24,7 +24,7 @@ class Solution {
 
         left = 0;
         right = peak;
-        int firstOcc = Integer.MAX_VALUE;
+        int firstOcc = mountainArr.length();
         while(left <= right){
             int mid = left + (right - left)/2;
             if(mountainArr.get(mid) == target){
@@ -38,7 +38,7 @@ class Solution {
         }
         left = peak + 1;
         right = mountainArr.length() - 1;
-        int SecOcc = Integer.MAX_VALUE;
+        int SecOcc = mountainArr.length();
         while(left <= right){
             int mid = left + (right - left)/2;
             if(mountainArr.get(mid) == target){
