@@ -124,6 +124,7 @@ This is my LeetCode DSA Repo
 | [0033-search-in-rotated-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -296,6 +297,7 @@ This is my LeetCode DSA Repo
 | [0048-rotate-image](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0069-sqrtx/) | Easy |
 | [0263-ugly-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0396-rotate-function](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0396-rotate-function/) | Medium |
@@ -554,4 +556,8 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
