@@ -142,6 +142,7 @@ This is my LeetCode DSA Repo
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0878-nth-magical-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0878-nth-magical-number/) | Hard |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sk07shubh/LeetCode-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -309,6 +310,7 @@ This is my LeetCode DSA Repo
 | [0441-arranging-coins](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0441-arranging-coins/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0788-rotated-digits/) | Medium |
+| [0878-nth-magical-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0878-nth-magical-number/) | Hard |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -568,4 +570,12 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0069-sqrtx/) | Easy |
+## Least Common Multiple
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0878-nth-magical-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0878-nth-magical-number/) | Hard |
+## Inclusion-Exclusion Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0878-nth-magical-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0878-nth-magical-number/) | Hard |
 <!---LeetCode Topics End-->
