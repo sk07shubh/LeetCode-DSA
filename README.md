@@ -52,6 +52,7 @@ This is my LeetCode DSA Repo
 | [0875-koko-eating-bananas](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0946-validate-stack-sequences/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1002-find-common-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1002-find-common-characters/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1095-find-in-mountain-array/) | Hard |
@@ -191,6 +192,7 @@ This is my LeetCode DSA Repo
 | [0680-valid-palindrome-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0917-reverse-only-letters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0917-reverse-only-letters/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -213,6 +215,7 @@ This is my LeetCode DSA Repo
 | [0451-sort-characters-by-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0912-sort-an-array/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
