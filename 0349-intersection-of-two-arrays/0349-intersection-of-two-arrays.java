@@ -6,13 +6,13 @@ class Solution {
             seen[x] = 1;
         }
         int k = 0;
-        int[] arr = new int[nums2.length];
+        int[] ans = new int[nums2.length];
         for(int x : nums2){
             if(seen[x] == 1){
-                arr[k++] = x;
+                ans[k++] = x;
                 seen[x] = 0;
             }
         }
-        return Arrays.copyOf(arr, k);
+        return Arrays.copyOf(ans, k);
     }
 }
