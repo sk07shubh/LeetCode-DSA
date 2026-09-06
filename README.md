@@ -192,6 +192,7 @@ This is my LeetCode DSA Repo
 | [0345-reverse-vowels-of-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0392-is-subsequence](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -301,6 +302,7 @@ This is my LeetCode DSA Repo
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0198-house-robber/) | Medium |
 | [0264-ugly-number-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0264-ugly-number-ii/) | Medium |
+| [0392-is-subsequence](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0396-rotate-function](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0396-rotate-function/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0788-rotated-digits](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0788-rotated-digits/) | Medium |
@@ -464,6 +466,7 @@ This is my LeetCode DSA Repo
 | [0344-reverse-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0541-reverse-string-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
