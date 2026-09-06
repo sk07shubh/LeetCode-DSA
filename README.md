@@ -23,6 +23,7 @@ This is my LeetCode DSA Repo
 | [0066-plus-one](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -178,6 +179,7 @@ This is my LeetCode DSA Repo
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0061-rotate-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -206,6 +208,7 @@ This is my LeetCode DSA Repo
 | [0015-3sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0217-contains-duplicate) |
