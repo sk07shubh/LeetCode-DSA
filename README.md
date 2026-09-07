@@ -456,6 +456,7 @@ This is my LeetCode DSA Repo
 | [0005-longest-palindromic-substring](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
@@ -531,6 +532,7 @@ This is my LeetCode DSA Repo
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0946-validate-stack-sequences/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -602,4 +604,8 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
