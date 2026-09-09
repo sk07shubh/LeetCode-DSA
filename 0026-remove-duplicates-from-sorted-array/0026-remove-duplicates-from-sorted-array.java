@@ -6,7 +6,7 @@ class Solution {
         
 
         while(i < n && j < n){
-            if(nums[j-1] == nums[j]){
+            if(nums[i] == nums[j]){
                 j++;
             }else{
                 nums[++i] = nums[j];
