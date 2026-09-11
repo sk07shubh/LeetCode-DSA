@@ -1,22 +1,26 @@
-import java.util.HashMap;
-import java.util.Map;
+import java.util.Arrays;
+
 class Solution {
     public int maxOperations(int[] nums, int k) {
-        Map<Integer,Integer> mp = new HashMap<>();
-        int n = nums.length;
+        Arrays.sort(nums);
+
+        int a = 0;
+        int b = nums.length - 1;
         int opr = 0;
 
-        for(int x : nums){
+        while (a < b) {
+            int sum = nums[a] + nums[b];
 
-            int need = k - x;
-            if(mp.getOrDefault(need,0) > 0){
-                mp.put(need,(mp.get(need))-1);
+            if (sum == k) {
                 opr++;
-            }else{
-                mp.put(x,(mp.getOrDefault(x,0))+1);
+                a++;
+                b--;
+            } else if (sum < k) {
+                a++;
+            } else {
+                b--;
             }
         }
-        
 
         return opr;
     }
