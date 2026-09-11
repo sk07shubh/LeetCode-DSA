@@ -1,19 +1,15 @@
 class Solution {
     public int[] diStringMatch(String s) {
-        int[] perm = new int[s.length()+1];
-        int i = 0;
-        int j = s.length();
-        int idx = 0;
-
-        for(char ch : s.toCharArray()){
-            if(ch == 'I'){
-                perm[idx] = i++;
-            }else{
-                perm[idx] = j--;
-            }
-            idx++;
+        int n = s.length();
+        char[] S = s.toCharArray();
+        int[] perm = new int[n+1];
+        int min = 0;
+        int max = n;
+        for(int i=0; i<n; i++){
+            if(S[i] == 'I') perm[i] = min++;
+            else perm[i] = max--;
         }
-        perm[s.length()] = i;
+        perm[n] = min;
         return perm;
     }
 }
