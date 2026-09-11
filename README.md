@@ -29,6 +29,7 @@ This is my LeetCode DSA Repo
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -136,6 +137,7 @@ This is my LeetCode DSA Repo
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -190,6 +192,7 @@ This is my LeetCode DSA Repo
 | [0142-linked-list-cycle-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0344-reverse-string/) | Easy |
