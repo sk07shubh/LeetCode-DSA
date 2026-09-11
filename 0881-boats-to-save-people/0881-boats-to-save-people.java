@@ -7,10 +7,8 @@ class Solution {
         while(a<=b){
             if(people[a] + people[b] <= limit ){
                 a++;
-                b--;
-            }else{
-                b--;
             }
+            b--;
             minBoat++;
         }
         return minBoat;
