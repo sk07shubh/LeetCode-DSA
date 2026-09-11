@@ -80,6 +80,7 @@ This is my LeetCode DSA Repo
 | [1559-detect-cycles-in-2d-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -210,6 +211,7 @@ This is my LeetCode DSA Repo
 | [0942-di-string-match](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0942-di-string-match/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -241,6 +243,7 @@ This is my LeetCode DSA Repo
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -290,6 +293,7 @@ This is my LeetCode DSA Repo
 | [1394-find-lucky-integer-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2540-minimum-common-value/) | Easy |
