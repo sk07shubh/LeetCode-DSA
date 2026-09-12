@@ -26,6 +26,7 @@ This is my LeetCode DSA Repo
 | [0055-jump-game](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -205,6 +206,7 @@ This is my LeetCode DSA Repo
 | [0027-remove-element](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
@@ -253,6 +255,7 @@ This is my LeetCode DSA Repo
 | [0018-4sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0148-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -688,4 +691,12 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0042-trapping-rain-water/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
