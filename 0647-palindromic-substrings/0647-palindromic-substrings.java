@@ -1,8 +1,5 @@
 class Solution {
     public int countSubstrings(String s) {
-        if (s.length() < 2) {
-            return 1;
-        }
 
         int count = 0;
 
