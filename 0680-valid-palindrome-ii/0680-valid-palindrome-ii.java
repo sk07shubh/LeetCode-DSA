@@ -1,34 +1,39 @@
 class Solution {
 
-    private boolean isPalindrome(char[] S, int a, int b) {
-        while (a < b) {
-            if (S[a] != S[b]) {
+    public boolean ispalindrome(int i, int j, String s)
+    {
+        while(i <j)
+        {
+            if(s.charAt(i) != s.charAt(j))
+            {
                 return false;
             }
-            a++;
-            b--;
+
+            i+=1;
+            j-=1;
         }
         return true;
     }
-
     public boolean validPalindrome(String s) {
+        int i = 0;
+        int j = s.length() - 1;
 
-        char[] S = s.toCharArray();
+        while(i < j)
+        {
+            char left = s.charAt(i);
+            char right = s.charAt(j);
 
-        int a = 0;
-        int b = S.length - 1;
-
-        while (a < b) {
-
-            if (S[a] != S[b]) {
-                return isPalindrome(S, a + 1, b) || isPalindrome(S, a, b - 1);
+            if(left != right)
+            {
+                return ispalindrome(i+1 , j ,s) || ispalindrome(i,j-1,s);
             }
-
-            a++;
-            b--;
+            else
+            {
+                i+=1;
+                j-=1;
+            }
         }
 
         return true;
     }
 }
-
