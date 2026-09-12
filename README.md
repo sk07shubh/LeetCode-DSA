@@ -8,6 +8,7 @@ This is my LeetCode DSA Repo
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0016-3sum-closest/) | Medium |
@@ -193,6 +194,7 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0018-4sum/) | Medium |
@@ -545,6 +547,7 @@ This is my LeetCode DSA Repo
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0410-split-array-largest-sum/) | Hard |
