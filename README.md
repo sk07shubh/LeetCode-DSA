@@ -70,6 +70,7 @@ This is my LeetCode DSA Repo
 | [0942-di-string-match](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0942-di-string-match/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0986-interval-list-intersections](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0986-interval-list-intersections/) | Medium |
 | [1002-find-common-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1002-find-common-characters/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1095-find-in-mountain-array/) | Hard |
@@ -238,6 +239,7 @@ This is my LeetCode DSA Repo
 | [0923-3sum-with-multiplicity](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0942-di-string-match](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0942-di-string-match/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0986-interval-list-intersections](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0986-interval-list-intersections/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sk07shubh/LeetCode-DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -699,4 +701,8 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0075-sort-colors/) | Medium |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0986-interval-list-intersections](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0986-interval-list-intersections/) | Medium |
 <!---LeetCode Topics End-->
