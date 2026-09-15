@@ -5,14 +5,11 @@ class Solution {
         int b = 2;
         int count = 0;
         while(b<n){
-            if(s.charAt(a) == s.charAt(b) || s.charAt(a) == s.charAt(b-1) || s.charAt(b-1) == s.charAt(b)){
-                a++;
-                b++;
-            }else{
+            if(s.charAt(a) != s.charAt(b) && s.charAt(a) != s.charAt(b-1) && s.charAt(b-1) != s.charAt(b)){
                 count++;
-                a++;
-                b++;
             }
+            a++;
+            b++;
         }
         return count;
     }
