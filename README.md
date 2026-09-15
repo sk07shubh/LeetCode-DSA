@@ -344,6 +344,7 @@ This is my LeetCode DSA Repo
 | [1636-sort-array-by-increasing-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2615-sum-of-distances/) | Medium |
@@ -487,6 +488,7 @@ This is my LeetCode DSA Repo
 | [1370-increasing-decreasing-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Heap (Priority Queue)
@@ -554,6 +556,7 @@ This is my LeetCode DSA Repo
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1370-increasing-decreasing-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -602,6 +605,7 @@ This is my LeetCode DSA Repo
 | [0003-longest-substring-without-repeating-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1652-defuse-the-bomb/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
