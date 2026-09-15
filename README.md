@@ -41,6 +41,7 @@ This is my LeetCode DSA Repo
 | [0200-number-of-islands](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -322,6 +323,7 @@ This is my LeetCode DSA Repo
 | [0202-happy-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0264-ugly-number-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -603,6 +605,7 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
