@@ -561,6 +561,7 @@ This is my LeetCode DSA Repo
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -609,6 +610,7 @@ This is my LeetCode DSA Repo
 | [0643-maximum-average-subarray-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
