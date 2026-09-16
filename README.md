@@ -75,6 +75,7 @@ This is my LeetCode DSA Repo
 | [0977-squares-of-a-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0986-interval-list-intersections/) | Medium |
 | [1002-find-common-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1002-find-common-characters/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1095-find-in-mountain-array/) | Hard |
@@ -177,6 +178,7 @@ This is my LeetCode DSA Repo
 | [0852-peak-index-in-a-mountain-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0878-nth-magical-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0878-nth-magical-number/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sk07shubh/LeetCode-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -310,6 +312,7 @@ This is my LeetCode DSA Repo
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -615,6 +618,7 @@ This is my LeetCode DSA Repo
 | [0003-longest-substring-without-repeating-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
