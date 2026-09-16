@@ -127,6 +127,7 @@ This is my LeetCode DSA Repo
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2751-robot-collisions](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -357,6 +358,7 @@ This is my LeetCode DSA Repo
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -620,6 +622,7 @@ This is my LeetCode DSA Repo
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
