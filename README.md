@@ -95,6 +95,7 @@ This is my LeetCode DSA Repo
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sk07shubh/LeetCode-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sk07shubh/LeetCode-DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -388,6 +389,7 @@ This is my LeetCode DSA Repo
 | [0647-palindromic-substrings](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0788-rotated-digits](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -630,6 +632,7 @@ This is my LeetCode DSA Repo
 | [1234-replace-the-substring-for-balanced-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
