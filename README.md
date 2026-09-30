@@ -329,6 +329,7 @@ This is my LeetCode DSA Repo
 | [0003-longest-substring-without-repeating-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0146-lru-cache/) | Medium |
@@ -549,6 +550,7 @@ This is my LeetCode DSA Repo
 | [0049-group-anagrams](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
+| [0076-minimum-window-substring](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0205-isomorphic-strings/) | Easy |
@@ -626,6 +628,7 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
