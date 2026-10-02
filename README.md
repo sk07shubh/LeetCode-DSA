@@ -72,6 +72,7 @@ This is my LeetCode DSA Repo
 | [0912-sort-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0923-3sum-with-multiplicity/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0942-di-string-match](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0942-di-string-match/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -316,6 +317,7 @@ This is my LeetCode DSA Repo
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -352,6 +354,7 @@ This is my LeetCode DSA Repo
 | [0874-walking-robot-simulation](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0923-3sum-with-multiplicity/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1002-find-common-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1002-find-common-characters/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -637,6 +640,7 @@ This is my LeetCode DSA Repo
 | [0424-longest-repeating-character-replacement](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
