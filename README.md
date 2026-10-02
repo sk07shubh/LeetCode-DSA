@@ -85,6 +85,7 @@ This is my LeetCode DSA Repo
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1260-shift-2d-grid/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sk07shubh/LeetCode-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1306-jump-game-iii/) | Medium |
@@ -319,6 +320,7 @@ This is my LeetCode DSA Repo
 | [0560-subarray-sum-equals-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -358,6 +360,7 @@ This is my LeetCode DSA Repo
 | [1002-find-common-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1002-find-common-characters/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -419,6 +422,7 @@ This is my LeetCode DSA Repo
 | [0633-sum-of-square-numbers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0788-rotated-digits](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0788-rotated-digits/) | Medium |
 | [0878-nth-magical-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0878-nth-magical-number/) | Hard |
+| [1248-count-number-of-nice-subarrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -644,6 +648,7 @@ This is my LeetCode DSA Repo
 | [1004-max-consecutive-ones-iii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
