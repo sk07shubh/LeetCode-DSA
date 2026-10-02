@@ -334,6 +334,7 @@ This is my LeetCode DSA Repo
 | [0001-two-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
@@ -559,6 +560,7 @@ This is my LeetCode DSA Repo
 | [0013-roman-to-integer](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0049-group-anagrams](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0067-add-binary/) | Easy |
@@ -641,6 +643,7 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0076-minimum-window-substring/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
