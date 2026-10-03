@@ -64,6 +64,7 @@ This is my LeetCode DSA Repo
 | [0704-binary-search](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0874-walking-robot-simulation](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0881-boats-to-save-people/) | Medium |
@@ -182,6 +183,7 @@ This is my LeetCode DSA Repo
 | [0704-binary-search](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0878-nth-magical-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0878-nth-magical-number/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -319,6 +321,7 @@ This is my LeetCode DSA Repo
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -531,6 +534,7 @@ This is my LeetCode DSA Repo
 | [0264-ugly-number-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0912-sort-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Merge Sort
@@ -639,6 +643,7 @@ This is my LeetCode DSA Repo
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -649,6 +654,7 @@ This is my LeetCode DSA Repo
 | [0239-sliding-window-maximum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -788,6 +794,7 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
