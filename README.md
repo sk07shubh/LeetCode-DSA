@@ -46,6 +46,7 @@ This is my LeetCode DSA Repo
 | [0240-search-a-2d-matrix-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -319,6 +320,7 @@ This is my LeetCode DSA Repo
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
@@ -464,6 +466,7 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0146-lru-cache/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
