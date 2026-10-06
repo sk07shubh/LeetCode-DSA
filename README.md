@@ -328,6 +328,7 @@ This is my LeetCode DSA Repo
 | [0930-binary-subarrays-with-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -600,6 +601,7 @@ This is my LeetCode DSA Repo
 | [1234-replace-the-substring-for-balanced-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1370-increasing-decreasing-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1370-increasing-decreasing-string/) | Easy |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
