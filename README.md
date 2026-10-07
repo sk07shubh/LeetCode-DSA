@@ -122,6 +122,7 @@ This is my LeetCode DSA Repo
 | [1991-find-the-middle-index-in-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2055-plates-between-candles](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2055-plates-between-candles/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2126-destroying-asteroids/) | Medium |
@@ -201,6 +202,7 @@ This is my LeetCode DSA Repo
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2055-plates-between-candles](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2055-plates-between-candles/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -338,6 +340,7 @@ This is my LeetCode DSA Repo
 | [1732-find-the-highest-altitude](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2055-plates-between-candles](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2055-plates-between-candles/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -613,6 +616,7 @@ This is my LeetCode DSA Repo
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2055-plates-between-candles](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2055-plates-between-candles/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
