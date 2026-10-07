@@ -133,6 +133,7 @@ This is my LeetCode DSA Repo
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2559-count-vowel-strings-in-ranges](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -338,6 +339,7 @@ This is my LeetCode DSA Repo
 | [1991-find-the-middle-index-in-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2615-sum-of-distances/) | Medium |
 ## Hash Table
@@ -615,6 +617,7 @@ This is my LeetCode DSA Repo
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2559-count-vowel-strings-in-ranges](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
