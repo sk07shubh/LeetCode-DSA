@@ -1,5 +1,5 @@
 class Solution {
-    private Boolean isVowel(char c){
+    private boolean isVowel(char c){
         if(c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u'){
             return true;
         }
