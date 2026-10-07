@@ -123,6 +123,7 @@ This is my LeetCode DSA Repo
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2055-plates-between-candles](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2055-plates-between-candles/) | Medium |
+| [2070-most-beautiful-item-for-each-query](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2070-most-beautiful-item-for-each-query/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2126-destroying-asteroids/) | Medium |
@@ -203,6 +204,7 @@ This is my LeetCode DSA Repo
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2055-plates-between-candles](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2055-plates-between-candles/) | Medium |
+| [2070-most-beautiful-item-for-each-query](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2070-most-beautiful-item-for-each-query/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -314,6 +316,7 @@ This is my LeetCode DSA Repo
 | [1679-max-number-of-k-sum-pairs](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2070-most-beautiful-item-for-each-query](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2070-most-beautiful-item-for-each-query/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
