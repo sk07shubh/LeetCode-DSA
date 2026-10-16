@@ -112,6 +112,7 @@ This is my LeetCode DSA Repo
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -423,6 +424,7 @@ This is my LeetCode DSA Repo
 | [0788-rotated-digits](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
