@@ -129,6 +129,7 @@ This is my LeetCode DSA Repo
 | [2089-find-target-indices-after-sorting-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
+| [2145-count-the-hidden-sequences](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2145-count-the-hidden-sequences/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -345,6 +346,7 @@ This is my LeetCode DSA Repo
 | [1991-find-the-middle-index-in-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2055-plates-between-candles](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2055-plates-between-candles/) | Medium |
+| [2145-count-the-hidden-sequences](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2145-count-the-hidden-sequences/) | Medium |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
