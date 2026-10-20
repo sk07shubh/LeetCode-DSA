@@ -13,7 +13,6 @@ class Solution {
                 if(j > i+1 && nums[j] == nums[j-1]) continue;
                 int k=j+1 , l=n-1;
                 while(k<l){
-
                     long foursum =(long) nums[i] + nums[j];
                     foursum += (long)nums[k];
                     foursum += (long)nums[l];
@@ -22,6 +21,7 @@ class Solution {
                         ans.add(Arrays.asList(nums[i],nums[j],nums[k],nums[l]));
                         k++;
                         l--;
+                        
                         while(k < l && nums[k] == nums[k-1]) k++;
                         while(k < l && l<n-1 && nums[l] == nums[l+1]) l--; 
                     }else if(foursum < target){
