@@ -57,6 +57,7 @@ This is my LeetCode DSA Repo
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0498-diagonal-traverse](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0498-diagonal-traverse/) | Medium |
+| [0525-contiguous-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0611-valid-triangle-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0611-valid-triangle-number/) | Medium |
@@ -342,6 +343,7 @@ This is my LeetCode DSA Repo
 | [0238-product-of-array-except-self](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0525-contiguous-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0930-binary-subarrays-with-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -387,6 +389,7 @@ This is my LeetCode DSA Repo
 | [0424-longest-repeating-character-replacement](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0525-contiguous-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0697-degree-of-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0697-degree-of-an-array/) | Easy |
 | [0763-partition-labels](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0763-partition-labels/) | Medium |
