@@ -57,6 +57,7 @@ This is my LeetCode DSA Repo
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0498-diagonal-traverse](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0498-diagonal-traverse/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -344,6 +345,7 @@ This is my LeetCode DSA Repo
 | [0238-product-of-array-except-self](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0523-continuous-subarray-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
@@ -391,6 +393,7 @@ This is my LeetCode DSA Repo
 | [0424-longest-repeating-character-replacement](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0697-degree-of-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0697-degree-of-an-array/) | Easy |
@@ -464,6 +467,7 @@ This is my LeetCode DSA Repo
 | [0264-ugly-number-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0264-ugly-number-ii/) | Medium |
 | [0396-rotate-function](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0396-rotate-function/) | Medium |
 | [0441-arranging-coins](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0441-arranging-coins/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0788-rotated-digits](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0788-rotated-digits/) | Medium |
@@ -839,6 +843,7 @@ This is my LeetCode DSA Repo
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
