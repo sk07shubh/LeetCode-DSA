@@ -112,6 +112,7 @@ This is my LeetCode DSA Repo
 | [1539-kth-missing-positive-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1664-ways-to-make-a-fair-array](https://github.com/sk07shubh/LeetCode-DSA/tree/master/1664-ways-to-make-a-fair-array) |
@@ -358,6 +359,7 @@ This is my LeetCode DSA Repo
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/sk07shubh/LeetCode-DSA/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -413,6 +415,7 @@ This is my LeetCode DSA Repo
 | [1394-find-lucky-integer-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
