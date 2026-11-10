@@ -403,6 +403,7 @@ This is my LeetCode DSA Repo
 | [0560-subarray-sum-equals-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0697-degree-of-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0697-degree-of-an-array/) | Easy |
 | [0763-partition-labels](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0763-partition-labels/) | Medium |
+| [0771-jewels-and-stones](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0923-3sum-with-multiplicity/) | Medium |
@@ -641,6 +642,7 @@ This is my LeetCode DSA Repo
 | [0680-valid-palindrome-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0709-to-lower-case/) | Easy |
 | [0763-partition-labels](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0763-partition-labels/) | Medium |
+| [0771-jewels-and-stones](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0796-rotate-string/) | Easy |
 | [0844-backspace-string-compare](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0917-reverse-only-letters/) | Easy |
