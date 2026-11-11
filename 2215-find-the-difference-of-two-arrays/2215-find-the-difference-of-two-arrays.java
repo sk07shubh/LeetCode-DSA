@@ -30,11 +30,11 @@ class Solution {
             }
         }
 
-        List<List<Integer>> result = new ArrayList<>();
+        List<List<Integer>> answer = new ArrayList<>();
 
-        result.add(list1);
-        result.add(list2);
+        answer.add(list1);
+        answer.add(list2);
 
-        return result;
+        return answer;
     }
 }
