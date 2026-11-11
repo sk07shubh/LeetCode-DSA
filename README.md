@@ -142,6 +142,7 @@ This is my LeetCode DSA Repo
 | [2145-count-the-hidden-sequences](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2145-count-the-hidden-sequences/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2270-number-of-ways-to-split-array](https://github.com/sk07shubh/LeetCode-DSA/tree/master/2270-number-of-ways-to-split-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -425,6 +426,7 @@ This is my LeetCode DSA Repo
 | [1748-sum-of-unique-elements](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sk07shubh/LeetCode-DSA/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2540-minimum-common-value](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sk07shubh/LeetCode-DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
