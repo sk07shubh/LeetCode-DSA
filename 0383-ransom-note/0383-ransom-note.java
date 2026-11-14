@@ -2,7 +2,7 @@ class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
         int r = ransomNote.length();
         int m = magazine.length();
-
+        if(r > m) return false;
         Map<Character,Integer> mp = new HashMap<>();
         for(char ch : magazine.toCharArray()){
             mp.put(ch,mp.getOrDefault(ch,0)+1);
