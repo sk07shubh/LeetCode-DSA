@@ -273,6 +273,7 @@ This is my LeetCode DSA Repo
 | [0392-is-subsequence](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0541-reverse-string-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0567-permutation-in-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0611-valid-triangle-number](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0611-valid-triangle-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0647-palindromic-substrings](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0647-palindromic-substrings/) | Medium |
@@ -405,6 +406,7 @@ This is my LeetCode DSA Repo
 | [0523-continuous-subarray-sum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0697-degree-of-an-array](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0697-degree-of-an-array/) | Easy |
 | [0763-partition-labels](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0763-partition-labels/) | Medium |
 | [0771-jewels-and-stones](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0771-jewels-and-stones/) | Easy |
@@ -649,6 +651,7 @@ This is my LeetCode DSA Repo
 | [0451-sort-characters-by-frequency](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0541-reverse-string-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0567-permutation-in-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0647-palindromic-substrings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -728,6 +731,7 @@ This is my LeetCode DSA Repo
 | [0219-contains-duplicate-ii](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/sk07shubh/LeetCode-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0904-fruit-into-baskets](https://github.com/sk07shubh/LeetCode-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
